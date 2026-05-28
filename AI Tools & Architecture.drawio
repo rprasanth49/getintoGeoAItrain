@@ -8,7 +8,7 @@
           <mxGeometry height="1154.0033333333333" width="1152.0033333333333" x="88" y="284" as="geometry" />
         </mxCell>
         <mxCell id="Z5SD9tjZpQWJlgjgY7WU-1" parent="Z5SD9tjZpQWJlgjgY7WU-8" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=bottom;" value="&lt;h4&gt;&lt;b&gt;&lt;i&gt;LLMs&lt;/i&gt;&lt;/b&gt;&lt;/h4&gt;" vertex="1">
-          <mxGeometry height="89" width="89" x="16" y="5" as="geometry" />
+          <mxGeometry height="89" width="89" x="17" y="2" as="geometry" />
         </mxCell>
         <mxCell id="Z5SD9tjZpQWJlgjgY7WU-3" parent="Z5SD9tjZpQWJlgjgY7WU-8" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" value="" vertex="1">
           <mxGeometry height="52.43333333333334" width="52.43333333333334" x="36.00333333333333" y="9.001111111111129" as="geometry" />
